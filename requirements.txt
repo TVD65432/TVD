@@ -1,4 +1,3 @@
-python-telegram-bot[webhooks]==21.9
-requests
-beautifulsoup4
+python-telegram-bot
 yt-dlp
+requests

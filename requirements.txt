@@ -1,5 +1,5 @@
 python-telegram-bot==20.8
 requests
 beautifulsoup4
-terabox-dl
+terabox
 cloudscraper
